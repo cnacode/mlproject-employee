@@ -1,5 +1,5 @@
 # mlproject-employee
-Problem Statement
+### Problem Statement
 A large company named XYZ, employs, at any given point of time, around 4000 employees. However, every year, around 15% of its employees leave the company and need to be replaced with the talent pool available in the job market. The management believes that this level of attrition (employees leaving, either on their own or because they got fired) is bad for the company, because of the following reasons -
 
 The former employees’ projects get delayed, which makes it difficult to meet timelines, resulting in a reputation loss among consumers and partners
@@ -9,7 +9,7 @@ Hence, the management has contracted an HR analytics firm to understand what fac
 
 Since you are one of the star analysts at the firm, this project has been given to you.
 
-Goal of the case study
+### Goal of the case study
 You are required to model the probability of attrition using a logistic regression. The results thus obtained will be used by the management to understand what changes they should make to their workplace, in order to get most of their employees to stay.
 
 dataset - https://www.kaggle.com/vjchoudhary7/hr-analytics-case-study
